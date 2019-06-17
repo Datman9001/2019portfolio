@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Material Design Bootstrap</title>
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="css/mdb.min.css" rel="stylesheet">
+  <!-- Your custom styles (optional) -->
+  <link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+
+
+   
+  
+  </div>
+ 
+ 
+
+
+<section class="contact">
+    <div class="row">
+       
+       
+        <div class="col-md-6 contact-section-1">
+           <img src="img/svg/contact.svg" alt="">
+        </div>
+       
+        <div class="col-md-6 contact-section-2">
+            <h3 class="text-center">Contact Me</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Esse quas quos praesentium explicabo laboriosam, quibusdam unde quaerat nostrum dolorem provident necessitatibus blanditiis magnam enim. Incidunt quasi fugiat mollitia culpa cupiditate impedit nulla voluptates, sequi possimus numquam similique, enim quae nostrum? Temporibus libero recusandae culpa blanditiis debitis quas rem magnam, ipsam reiciendis quo eos inventore laborum?</p>
+          
+        </div>
+      
+      </div>
+</section>
+
+   
+  <!-- /Start your project here-->
+  <div id="app"></div>
+  
+</body>
+
+</html>
+
+<script src="index.js"></script>
+
+  <!-- SCRIPTS -->
+  <!-- JQuery -->
+  <script type="text/javascript" src="js/jquery-3.3.1.min.js"></script>
+  <!-- Bootstrap tooltips -->
+  <script type="text/javascript" src="js/popper.min.js">
+    $(function () {
+      $('[data-toggle="tooltip"]').tooltip("show")
+    })
+  </script>
+  <!-- Bootstrap core JavaScript -->
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  <!-- MDB core JavaScript -->
+  <script type="text/javascript" src="js/mdb.js"></script>

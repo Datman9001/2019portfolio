@@ -1,0 +1,46 @@
+/* about */
+
+
+.contact{
+    
+    
+
+}
+
+.contact-section-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 575px;
+    background-color: var(--color-1);
+    width: 100%;
+
+    img{
+        width: 200px;
+    }
+}
+
+
+
+.contact-section-2{
+     max-height: 575px;
+      overflow-y: scroll;
+      padding: 40px 50px;
+      display: flex;
+      flex-direction: column;
+     justify-content: center;
+     align-items: center;
+      
+      h3{
+          text-transform: uppercase;
+          font-family: cursive;
+          font-weight: 700;
+          padding-bottom: 30px;
+          p{
+             
+          }
+
+      }
+ 
+
+}
